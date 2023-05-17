@@ -1,4 +1,5 @@
-### 👋 Hi there
+### 👋 Hi there, Welcome to my page!
+
 <h4> My tech stack </h4>
 <div>
 	<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
